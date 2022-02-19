@@ -1,0 +1,8 @@
+﻿  Player.cpp
+  GameStatePickMode.cpp
+C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\Game\Monopoly\Monopoly\GameState\GameStatePickMode.cpp(38,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\Game\Monopoly\Monopoly\GameState\GameStatePickMode.cpp(52,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\Game\Monopoly\Monopoly\GameState\GameStatePickMode.cpp(60,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\Game\Monopoly\Monopoly\GameState\GameStatePickMode.cpp(69,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Monopoly.vcxproj -> C:\Users\VuNAP\OneDrive - ptit.edu.vn\Documents\Game\Monopoly\Debug\Monopoly.exe
